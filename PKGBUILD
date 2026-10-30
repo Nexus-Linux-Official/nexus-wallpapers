@@ -4,7 +4,7 @@ pkgver=1.0
 pkgrel=1
 pkgdesc="Nexus Linux default wallpapers"
 arch=(any)
-url="https://github.com/nexuslinux-os/NexusLinux"
+url="https://github.com/Nexus-Linux-Official/nexus-wallpapers"
 license=(GPL-3.0-or-later)
 package() {
     # Create wallpaper directory
